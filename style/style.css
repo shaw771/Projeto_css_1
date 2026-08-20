@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&family=Roboto+Condensed&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins', sans-serif;
+}
+
+header{
+    margin-top: 47px;
+    margin-left: 42px;
+}
+img{
+    margin: 163px 0 0 123px;
+    display: inline-block;
+    
+}
+h1{
+    font-family: Poppins;
+    font-weight: 700;
+    font-size: 62px;
+    color: #161A49;
+    line-height: 82px;
+    letter-spacing: 0.596154px;
+}
+div{ 
+    display: inline-block;
+    width: 493px;
+    margin-left: 85px;
+    margin-bottom: 100px;
+}
+.link-menu{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: 0.875px;
+    text-align: center;
+    color: #17233D;
+    margin-right: 32px;
+    cursor: pointer;
+}
+.button-sign-up{
+    width: 124px;
+    height: 51px;
+    opacity: 1;
+    border-radius: 6px;
+    border-width: 1px;
+    border: 1px solid #4CB538;
+    background-color: #6FBF44;
+    color: #FFF;
+    cursor: pointer;
+    font-family: Poppins;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 100%;
+    letter-spacing: 1px;
+    margin-right: 32px;
+}
+p{
+    font-weight: 400;   
+    opacity: 1;
+    font-size: 18px;
+    line-height: 33px;
+    color: #161a49;
+    letter-spacing: 0.59154px;
+    margin-top: 47px;
+    margin-bottom: 55px;
+}
+.button-learn-more{
+    font-family: Poppins;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 100%;
+    letter-spacing: 1px;
+    color: #6FBF44;
+    cursor: pointer;
+    border: none;
+}
